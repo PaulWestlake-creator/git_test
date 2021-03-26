@@ -13,10 +13,12 @@
 
 
 <body>
-< h1> This is practice</h1>
+
+<h1> This is Practice </h1>
 
 <p>I know how to do this i just need to do it more. </p>
 
 </body>
 
 </html>
+
